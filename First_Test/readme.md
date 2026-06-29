@@ -12,4 +12,4 @@
 
 ## 3. 이미지 업로드
 
-<img width="10%" height="10%" alt="재학증명서" src="https://github.com/user-attachments/assets/1c49c91e-906e-4d7e-a9bd-37f478383849" />
+<img width="340" height="340" alt="소라게" src="https://github.com/user-attachments/assets/87f0f517-8b00-4711-95ce-e58de0d61d7b" />
